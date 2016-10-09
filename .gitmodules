@@ -1,9 +1,6 @@
 [submodule "rock"]
 	path = rock
 	url = https://github.com/Venzul/rock
-[submodule "rubber-band¨"]
-	path = rubber-band¨
-	url = https://github.com/Venzul/rubber-band
 [submodule "rubber-band"]
 	path = rubber-band
 	url = https://github.com/Venzul/rubber-band
