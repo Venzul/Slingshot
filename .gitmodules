@@ -1,3 +1,12 @@
 [submodule "rock"]
 	path = rock
 	url = https://github.com/Venzul/rock
+[submodule "rubber-band¨"]
+	path = rubber-band¨
+	url = https://github.com/Venzul/rubber-band
+[submodule "rubber-band"]
+	path = rubber-band
+	url = https://github.com/Venzul/rubber-band
+[submodule "y-shaped-stick"]
+	path = y-shaped-stick
+	url = https://github.com/Venzul/y-shaped-stick
